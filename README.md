@@ -11,9 +11,9 @@ What Work :
 -Touchpad
 -Fn Keys
 -Ethernet
+-Bluetooh
 
 Not Work:
 -VGA Port
 -Wifi
--Bluetooh
 -Sleep Wake
