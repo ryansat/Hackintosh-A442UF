@@ -12,8 +12,8 @@ What Work :
 -Fn Keys
 -Ethernet
 -Bluetooh
+-VGA Port
 
 Not Work:
--VGA Port
 -Wifi
 -Sleep Wake
