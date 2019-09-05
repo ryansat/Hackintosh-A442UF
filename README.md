@@ -7,7 +7,7 @@ Tested on Mac OS Mojave 10.14.4
 What Work :
 
 -HDMI 
--Audio (patched with ALC256)
+-Audio
 -Touchpad
 -Fn Keys
 -Ethernet
