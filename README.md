@@ -15,5 +15,5 @@ What Work :
 -VGA Port
 
 Not Work:
--Wifi
+-Wifi (Replaced With Dell DW1560)
 -Sleep Wake
